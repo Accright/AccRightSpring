@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+    <bean id="student" className="Student">
+        <property name="studentBase" ref="StudentBase"></property>
+        <property name="id" val="1"></property>
+        <property name="name" val="小明"></property>
+        <property name="sex" val="男"></property>
+    </bean>
+    <bean id="studentBase" className="StudentBase">
+        <property name="id" val="2"></property>
+        <property name="name" val="小红"></property>
+        <property name="sex" val="女"></property>
+    </bean>
+</beans>
