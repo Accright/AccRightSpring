@@ -1,3 +1,5 @@
+package com.accright.ioc;
+
 import org.apache.commons.beanutils.ConvertUtils;
 import org.dom4j.Document;
 import org.dom4j.Element;

@@ -1,3 +1,5 @@
+package com.accright.ioc;
+
 /**
  * 依赖注入相关的类
  */

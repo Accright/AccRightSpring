@@ -1,3 +1,5 @@
+package com.accright.ioc;
+
 public class MainTest {
     //测试入口
     public static void main(String[] args){

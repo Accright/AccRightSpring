@@ -1,3 +1,5 @@
+package com.accright.ioc;
+
 import java.util.List;
 
 /**

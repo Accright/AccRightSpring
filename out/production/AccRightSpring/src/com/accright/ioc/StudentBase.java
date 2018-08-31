@@ -1,3 +1,5 @@
+package com.accright.ioc;
+
 /**
  * 该类作为依赖注入Student
  */
